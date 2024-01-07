@@ -1,5 +1,7 @@
 ### Hi there 👋
+My name is Malona, a recent graduate from Indonesia University majoring in geophysics. I am looking to switch careers to focus on data.
 
+I am currently seeking an internship or junior position in a data-related role, specifically targeting opportunities as a **Business or Data Analyst.**
 <!--
 **Malona-Hutabarat/Malona-Hutabarat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,matlab,postgres,mysql,anaconda,vscode" />
+  </a>
+</p>
